@@ -1,2 +1,2 @@
-# clean-architecture
+# .NET Clean Architecture
 .NET Clean Architecture
