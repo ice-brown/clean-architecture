@@ -1,2 +1,2 @@
 # .NET Clean Architecture
-.NET Clean Architecture
+.NET 8
